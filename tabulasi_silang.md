@@ -1,7 +1,7 @@
 #### Dharu Aulia Rahman_2100016086
 # Tabulasi Silang Data Penyebab Kematian di Indonesia
 
-## Instruksi B
+## Instruksi A
 1. Buka data berikut: [Data Kematian di Indonesia](https://www.kaggle.com/datasets/hendratno/cause-of-death-in-indonesia) menggunakan Google Spreadsheet
 2. Pada Menu Bar pilih Ekstensi kemudian pilih App Script
 3. Masukkan Kode Script berikut kedalam App Script:
@@ -90,7 +90,7 @@ function generateCrosstab() {
 5. Lakukan pengecekan hasil Tabulasi Silang pada Google Spreadsheet
 6. Hasil Tabulasi Silang akan Berada di Sheet baru
 
-### Table B
+### Table A
 
 | Cause                                                                                                                         | Type                          | 2000 | 2001 | 2002 | 2003 | 2004   | 2005  | 2006  | 2007  | 2008  | 2009  | 2010  | 2011 | 2012 | 2013 | 2014 | 2015 | 2016 | 2017 | 2018 | 2019  | 2020  | 2021   | 2022  |
 | ----------------------------------------------------------------------------------------------------------------------------- | ----------------------------- | ---- | ---- | ---- | ---- | ------ | ----- | ----- | ----- | ----- | ----- | ----- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ----- | ----- | ------ | ----- |
